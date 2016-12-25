@@ -1,5 +1,6 @@
 # gschem-examples
-A few circuit diagrams made in gschem
+
+A few circuit diagrams made in gschem.
 
 Corresponding blog posts:
 
